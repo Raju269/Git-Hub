@@ -1,0 +1,40 @@
+📘 What is GitHub Actions?
+
+GitHub Actions is:
+
+👉 A built-in tool in GitHub
+👉 Used to create CI/CD workflows
+
+It runs automation using a YAML file.
+
+📘 GitHub Action CI Workflow Setup (Simple)
+
+Inside your project, create folder:
+
+.github/workflows/
+
+
+Create file:
+
+ci.yml
+
+Example Basic CI File:
+name: Simple CI
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Print message
+        run: echo "CI is running successfully!"
+
+
+Now whenever you push to main, GitHub runs this automatically.

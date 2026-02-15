@@ -1,0 +1,32 @@
+📘 Code Review Using GitHub
+
+Code review means:
+
+👉 Checking someone’s code before merging it into main branch.
+
+It helps to:
+
+Find bugs
+
+Improve code quality
+
+Maintain clean project
+
+Learn from each other
+
+How Code Review Works on GitHub:
+
+Developer creates new branch
+
+Pushes branch to GitHub
+
+Creates Pull Request (PR)
+
+Teammates review the code
+
+They comment / suggest changes
+
+After approval → merge into main
+
+Simple meaning:
+Code review = “Team checking your work before final approval.”

@@ -1,0 +1,28 @@
+”
+
+📘 What is CI/CD?
+
+CI/CD stands for:
+
+🔹 CI – Continuous Integration
+
+Automatically test code when you push changes.
+
+🔹 CD – Continuous Delivery / Deployment
+
+Automatically deploy project after testing.
+
+Easy Example:
+
+You push code →
+GitHub automatically:
+
+Runs tests
+
+Checks errors
+
+Builds project
+
+Deploys website
+
+No manual work needed.
