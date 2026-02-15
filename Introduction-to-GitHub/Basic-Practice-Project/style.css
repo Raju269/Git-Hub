@@ -9,3 +9,8 @@ header footer{
     color: white;
     padding: 10px;
 }
+div{
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid black;
+}
