@@ -1,1 +1,1 @@
-console.log(Hello, welcome to the Basic Practice Project!");
+console.log(":Hello, welcome to the Basic Practice Project!");
