@@ -1,0 +1,24 @@
+name: CI Pipeline
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - name: Print Message
+        run: echo "Build Success"
+      - name: Run test command
+        run: echo "Project built successfully!" 
+      - name: Run test command
+        run: echo "All tests passed successfully!"
+      - name: Run test command
+        run: echo "Code linting completed successfully!"
+      - name: Run test command
+        run: echo "Code coverage report generated successfully!"
+      - name: Run test command
+        run: echo "Deployment to staging environment successful!"
