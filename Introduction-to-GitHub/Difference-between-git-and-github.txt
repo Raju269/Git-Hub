@@ -1,0 +1,10 @@
+📘 Difference Between Git and GitHub
+Git	GitHub
+Software	Website
+Tracks changes	Stores projects online
+Works offline	Needs internet
+Version control tool	Hosting platform
+
+Simple idea:
+👉 Git = Tool
+👉 GitHub = Online storage for Git projects

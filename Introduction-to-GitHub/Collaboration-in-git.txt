@@ -1,0 +1,21 @@
+📘 Collaboration in Git
+
+Collaboration means:
+
+👉 Multiple developers working on same project.
+
+Steps:
+
+Clone project
+
+Create branch
+
+Make changes
+
+Push branch
+
+Create Pull Request
+
+Merge after review
+
+This prevents code conflict.

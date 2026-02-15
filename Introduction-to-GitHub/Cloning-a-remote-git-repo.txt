@@ -1,0 +1,12 @@
+📘 Cloning a Remote Git Repo
+
+Cloning means:
+
+👉 Downloading a GitHub repository to your computer.
+
+Command:
+
+git clone REPO_LINK
+
+
+It creates a full copy of the project.

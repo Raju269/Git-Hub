@@ -1,0 +1,14 @@
+📘 Forking a GitHub Repository
+
+Fork means:
+
+👉 Creating your own copy of someone else's repository on GitHub.
+
+Used in:
+
+Open source contribution
+
+Making changes without affecting original project
+
+After forking:
+You clone your fork, make changes, and create a Pull Request.

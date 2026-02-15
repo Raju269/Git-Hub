@@ -1,0 +1,18 @@
+📘 Introduction to GitHub
+
+GitHub is a cloud-based platform where we store Git repositories online.
+
+It helps developers:
+
+Store code online
+
+Share projects
+
+Work in teams
+
+Track changes
+
+Manage versions
+
+Simple meaning:
+👉 GitHub is a website for hosting Git projects.

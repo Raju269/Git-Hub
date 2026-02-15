@@ -1,0 +1,16 @@
+📘 What is SSH Key?
+
+SSH key is:
+
+👉 A secure way to connect your computer with GitHub
+👉 Without typing password every time
+
+It uses:
+
+Public key (stored on GitHub)
+
+Private key (stored on your computer)
+
+Generate SSH key:
+
+ssh-keygen -t ed25519 -C "your_email"

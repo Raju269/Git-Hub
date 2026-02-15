@@ -1,0 +1,19 @@
+📘 Git Pull
+
+git pull means:
+
+👉 Download latest changes from GitHub to your computer.
+
+Command:
+
+git pull origin main
+
+
+It combines:
+
+git fetch
+
+git merge
+
+Simple meaning:
+“Update my project.”

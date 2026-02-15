@@ -1,0 +1,17 @@
+📘 How to Synchronize a Local Git Repo
+
+To connect local project with GitHub:
+
+Step 1: Add remote
+git remote add origin REPO_LINK
+
+Step 2: Push project
+git push -u origin main
+
+
+Now your local project is synchronized with GitHub.
+
+To update later:
+
+git pull
+git push
