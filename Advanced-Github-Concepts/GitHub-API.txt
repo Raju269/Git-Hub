@@ -1,0 +1,29 @@
+📘 GitHub API
+
+GitHub API allows you to:
+
+Get data from GitHub programmatically
+
+Access repositories
+
+Get user information
+
+Fetch commits, issues, stars
+
+Example:
+
+You can get user data using:
+
+https://api.github.com/users/username
+
+
+It returns JSON data like:
+
+{
+  "login": "Raju269",
+  "public_repos": 15
+}
+
+
+Simple meaning:
+👉 GitHub API = Get GitHub data using code.

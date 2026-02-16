@@ -1,0 +1,28 @@
+📘 GitHub CLI
+
+GitHub CLI (gh) is a command-line tool.
+
+It allows you to:
+
+Create repos from terminal
+
+Create pull requests
+
+Clone repos
+
+Manage issues
+
+Example:
+
+Create repo:
+
+gh repo create my-project
+
+
+Login:
+
+gh auth login
+
+
+Simple meaning:
+👉 GitHub CLI = Control GitHub from terminal.

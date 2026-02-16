@@ -1,0 +1,24 @@
+📘 GitHub Pages
+
+GitHub Pages is a free hosting service by GitHub.
+
+It allows you to:
+
+Host static websites
+
+Deploy HTML, CSS, JS projects
+
+Share portfolio online
+
+It works directly from your repository.
+
+Example use:
+
+Portfolio website
+
+College project website
+
+Documentation site
+
+Simple meaning:
+👉 GitHub Pages = Free website hosting from GitHub.
