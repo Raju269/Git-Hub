@@ -1,0 +1,12 @@
+📘 6️⃣ Git Bisect (Finding Bugs)
+
+Used to find which commit introduced a bug.
+
+Start:
+
+git bisect start
+git bisect bad
+git bisect good commit-id
+
+
+Git automatically checks commits one by one.

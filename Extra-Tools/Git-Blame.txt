@@ -1,0 +1,8 @@
+📘 7️⃣ Git Blame
+
+Shows who changed which line.
+
+git blame filename
+
+
+Very useful in team projects.

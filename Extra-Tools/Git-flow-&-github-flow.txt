@@ -1,0 +1,30 @@
+📘 🔟 Git Flow vs GitHub Flow
+Git Flow
+
+Uses multiple branches:
+
+main
+
+develop
+
+feature
+
+release
+
+hotfix
+
+Good for large teams.
+
+GitHub Flow
+
+Simple workflow:
+
+main branch
+
+feature branch
+
+Pull request
+
+Merge
+
+Good for small teams.

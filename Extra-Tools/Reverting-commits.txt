@@ -1,0 +1,8 @@
+📘 5️⃣ Reverting Commits
+
+Safe way to undo pushed commit:
+
+git revert HEAD
+
+
+Creates new commit that reverses changes.

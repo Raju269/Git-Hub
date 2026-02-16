@@ -1,0 +1,12 @@
+📘 4️⃣ Git Reset
+
+Reset moves HEAD pointer.
+
+Soft Reset (keep changes staged)
+git reset --soft HEAD~1
+
+Mixed Reset (default)
+git reset HEAD~1
+
+Hard Reset (delete everything)
+git reset --hard HEAD~1

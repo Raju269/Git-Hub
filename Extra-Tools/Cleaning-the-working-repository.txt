@@ -1,0 +1,14 @@
+📘 1️⃣ Cleaning the Working Repository
+
+Sometimes your working directory becomes messy.
+
+Clean Untracked Files
+git clean -f
+
+
+Remove folders:
+
+git clean -fd
+
+See what will be deleted (safe preview)
+git clean -n

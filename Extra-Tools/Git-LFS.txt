@@ -1,0 +1,18 @@
+📘 9️⃣ Git LFS (Large File Storage)
+
+Used for large files like:
+
+Videos
+
+Models
+
+Images
+
+Install LFS:
+
+git lfs install
+
+
+Track large file:
+
+git lfs track "*.zip"

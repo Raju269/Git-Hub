@@ -1,0 +1,15 @@
+📘 8️⃣ Git Tags
+
+Tags mark versions.
+
+Create tag:
+
+git tag v1.0
+
+
+Push tag:
+
+git push origin v1.0
+
+
+Used for releases.

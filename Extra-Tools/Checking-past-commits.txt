@@ -1,0 +1,15 @@
+📘 3️⃣ Checking Past Commits
+
+View commit history:
+
+git log
+
+
+Short version:
+
+git log --oneline
+
+
+Graph view:
+
+git log --oneline --graph --all
