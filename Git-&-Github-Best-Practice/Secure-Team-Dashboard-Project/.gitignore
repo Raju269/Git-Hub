@@ -1,2 +1,4 @@
 Project-information.md
 .github/workflows/ci.yml
+node_modules/
+.env
