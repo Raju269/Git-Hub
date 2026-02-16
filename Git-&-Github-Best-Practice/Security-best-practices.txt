@@ -1,0 +1,22 @@
+📘 Security Best Practices
+
+Security is very important.
+
+🔐 1. Never Push Secrets
+
+Use .env file and add to .gitignore.
+
+🔐 2. Enable Two-Factor Authentication
+
+On GitHub → Settings → Security
+
+🔐 3. Use SSH Instead of Password
+ssh-keygen -t ed25519 -C "email"
+
+🔐 4. Use Dependabot
+
+GitHub automatically checks vulnerabilities.
+
+🔐 5. Review Code Before Merge
+
+Always use Pull Request reviews.

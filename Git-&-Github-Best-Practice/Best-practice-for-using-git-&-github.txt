@@ -1,0 +1,71 @@
+📘 Best Practices for Using Git & GitHub
+
+Using Git and GitHub properly makes your project clean, safe, and professional.
+
+✅ 1. Write Clear Commit Messages
+
+Bad ❌
+
+update
+
+
+Good ✅
+
+Added login validation with error handling
+
+
+Clear commits help team members understand changes.
+✅ 2. Commit Small Changes
+
+Do not commit 50 files together.
+Commit feature by feature.
+
+This makes debugging easier.
+
+✅ 3. Use Branches Properly
+
+Never work directly on main.
+
+Use:
+
+feature/login
+
+feature/navbar
+
+bugfix/header
+
+hotfix/security
+
+Then merge using Pull Request.
+
+✅ 4. Always Pull Before Push
+git pull origin main
+
+
+This avoids merge conflicts.
+
+✅ 5. Use .gitignore
+
+Never push:
+
+node_modules
+
+.env
+
+API keys
+
+Passwords
+
+✅ 6. Protect Main Branch
+
+On GitHub:
+
+Settings → Branches → Add branch protection rule
+
+Require:
+
+Pull request
+
+Code review
+
+status checks

@@ -1,0 +1,20 @@
+📘 Developing a Workflow with Git & GitHub
+
+A simple professional workflow:
+
+Step 1: Clone repository
+git clone REPO_LINK
+
+Step 2: Create feature branch
+git checkout -b feature/login
+
+Step 3: Work & commit
+git add .
+git commit -m "Added login page"
+
+Step 4: Push branch
+git push origin feature/login
+
+Step 5: Create Pull Request
+
+Review → Merge → Delete branch

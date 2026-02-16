@@ -1,0 +1,44 @@
+📘 Managing Large Projects with Git & GitHub
+
+Large projects require structure.
+
+🔹 1. Folder Structure
+
+Organize code properly:
+
+src/
+components/
+utils/
+tests/
+docs/
+
+🔹 2. Use Issues & Projects
+
+Track tasks:
+
+Bug fixes
+
+Features
+
+Improvements
+
+🔹 3. Use Tags & Releases
+
+For versions:
+
+git tag v1.0.0
+git push origin v1.0.0
+
+🔹 4. Use GitHub Actions (CI/CD)
+
+Automatically:
+
+Run tests
+
+Build project
+
+Deploy
+
+🔹 5. Use Pull Requests for Everything
+
+Never merge directly.
