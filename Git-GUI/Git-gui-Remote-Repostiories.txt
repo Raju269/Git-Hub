@@ -1,0 +1,25 @@
+📘 Git GUI Remote Repositories
+
+In GUI you can:
+
+✔ Add remote
+✔ Push
+✔ Pull
+✔ Fetch
+✔ See remote branches
+
+Instead of:
+
+git push
+git pull
+
+
+You just click buttons.
+
+You can also see:
+
+origin/main
+
+origin/feature
+
+Visually.

@@ -1,0 +1,30 @@
+📘 Installation of SourceTree for Git in Windows
+
+SourceTree is a free Git GUI tool by Atlassian.
+
+🔹 Step 1: Download
+
+Go to:
+👉 https://www.sourcetreeapp.com
+
+Download for Windows.
+
+🔹 Step 2: Install
+
+Run installer
+
+Login with Atlassian or skip
+
+Choose Git version (use embedded Git)
+
+Finish installation
+
+🔹 Step 3: Add Repository
+
+Click:
+
+“Add Repository”
+
+Select project folder
+
+Now you can manage Git visually

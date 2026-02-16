@@ -1,0 +1,22 @@
+📘 Git GUI Custom Tools
+
+Some GUI tools allow:
+
+Custom commands
+
+Run scripts
+
+Open terminal
+
+Run external diff tools
+
+Example:
+You can connect:
+
+VS Code
+
+Notepad++
+
+Meld (diff tool)
+
+Custom tools improve productivity.

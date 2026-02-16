@@ -1,0 +1,32 @@
+📘 Git GUI Branch Operations
+
+Using GUI (like SourceTree or VS Code), you can:
+
+🔹 Create Branch
+
+Click → Branch → Enter branch name → Create
+
+🔹 Switch Branch
+
+Click branch from list → Checkout
+
+🔹 Merge Branch
+
+Select target branch → Click Merge → Choose branch to merge
+
+🔹 Delete Branch
+
+Right click branch → Delete
+
+🔹 View Branch Graph
+
+GUI shows commit graph visually
+You can see:
+
+Branch lines
+
+Merge commits
+
+History flow
+
+This is easier than git log --graph

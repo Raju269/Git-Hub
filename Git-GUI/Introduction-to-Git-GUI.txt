@@ -1,0 +1,18 @@
+📘 Introduction to Git GUI
+
+Git GUI means:
+
+👉 Using graphical interface instead of typing commands
+👉 Clicking buttons instead of writing git branch, git merge
+
+Examples of Git GUI tools:
+
+SourceTree
+
+GitHub Desktop
+
+GitKraken
+
+VS Code Source Control
+
+GUI makes Git easier for beginners and visual learners.
